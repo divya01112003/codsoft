@@ -1,0 +1,182 @@
+nav{
+    background-color: rgb(69, 69, 233);
+    display: flex;
+    justify-content: space-around;
+    color: #ffff;
+    border-radius: 10px;
+
+
+}
+nav ul{
+    display: flex;
+
+}
+nav ul li{
+    margin: 10px;
+    list-style: none;
+}
+.left{
+    margin-top: 15px;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+.welcome{
+    color: blue;
+    font-style: oblique;
+}
+.first{
+    justify-content: space-around;
+    display: flex;
+}
+
+.leftsection b{
+    color: blue;
+}
+.firstimg{
+    width: 30pc;
+    height: 20pc;
+    border-radius: 90%;
+}
+.leftsection{
+    margin-top: 10px;
+    margin-left: 100px;
+    width: 50%;
+}
+button{
+    background: #2f87d4;
+    padding: 3px;
+}
+.aboutme{
+    color:blue;
+}
+.second{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 10pc;
+    background-color: wheat;
+    
+}
+.secondimg{
+    width: 25pc;
+    height: 30pc;
+    border-radius: 50%;
+    margin-top: 2pc;
+    margin-bottom: 2pc;
+}
+p{
+    font-size:large;
+}
+.myskill{
+    margin-top: 2pc;
+    color: blue;
+}
+.third{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 1pc;
+    padding: 4pc;
+}
+.tleft{
+    padding: 20px;
+    border: 10px solid #20115f00;
+    border-radius: 1px ;
+    box-shadow: 0px 3px 15px rgba(0,0,0, 0.8);
+    background: rgba(0,0,0, 0.5);
+} 
+.tmid{
+    padding: 20px;
+    border: 10px solid #20115f00;
+    border-radius: 1px ;
+    box-shadow: 0px 3px 15px rgba(0,0,0, 0.8);
+    background: rgba(0,0,0, 0.5);
+}
+.communication{
+    width:20pc;
+    height: 10pc;
+}
+.tright{
+    padding: 20px;
+    border: 10px solid #20115f00;
+    border-radius: 1px ;
+    box-shadow: 0px 3px 15px rgba(0,0,0, 0.8);
+    background: rgba(0,0,0, 0.5);
+}
+a{
+    font-size: large;
+    color: black;
+    margin-top: 2px;
+}
+.myproject{
+    margin-top: 1pc;
+    color: blue;
+}
+.project{
+    background-color:burlywood;
+    padding: 2pc;
+
+}
+.fourth{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 5pc;
+    background-color:burlywood;
+    margin-bottom: 4pc;
+}
+.fright{
+    padding: 20px;
+    border: 4px solid rgb(149, 149, 222);
+    border-radius: 1px ;
+    box-shadow: 0px 3px 15px aquamarine;
+    background: rgb(124, 110, 161);
+    margin-bottom: 4px;
+
+}
+.fmid{
+    padding: 20px;
+    border: 4px solid rgb(149, 149, 222);
+    border-radius: 1px ;
+    box-shadow: 0px 3px 15px aquamarine;
+    background: rgb(124, 110, 161);
+    margin-bottom: 4px;
+}
+.fleft{
+    padding: 20px;
+    border: 4px solid rgb(149, 149, 222);
+    border-radius: 1px ;
+    box-shadow: 0px 3px 15px aquamarine;
+    background: rgb(124, 110, 161);
+    margin-bottom: 4px;
+}
+.resumehead{
+    color: blue;
+}
+.resume{
+    padding: 25px ;
+}
+.resume a{
+    padding: 10px;
+    border: 4px solid rgb(149, 149, 222);
+    border-radius: 1px ;
+    box-shadow: 0px 3px 15px aquamarine;
+    background: rgb(124, 110, 161);
+    margin-bottom: 4px;
+}
+.get{
+    color: blue;
+    margin-top: 2pc;
+}
+.contact{
+    background-color:bisque;
+    padding: 2pc;
+}
+.contact ul li{
+    list-style: none;
+    font-size: large;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+    clear: both;
+}
